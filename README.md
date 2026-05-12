@@ -32,7 +32,7 @@ task.js     -> JavaScript functionality
 ![Home Page](screenshots/home.png)
 
 ### Task Added Successfully
-![Task Added](screenshots/task added.png)
+![Task Added](screenshots/task-added.png)
 
 ### Validation Message
 ![Validation](screenshots/validation.png)
