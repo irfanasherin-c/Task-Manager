@@ -27,5 +27,24 @@ task.js     -> JavaScript functionality
 1. Download or clone the repository
 2. Open `task.html` in your browser
 
+## Screenshots:
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Task Added Successfully
+![Added Tasks](screenshots/task added.png)
+
+### Validation Message
+![Validation](screenshots/validation.png)
+
+### Additional Validation
+![Validation](screenshots/validation1.png)
+
 ## Author
 Irfana Sherin
+
+
+
+
+
