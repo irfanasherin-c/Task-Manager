@@ -7,7 +7,6 @@ A simple Task Manager web application developed using HTML, CSS, and JavaScript.
 - Mark tasks as completed
 - Delete tasks
 - Responsive user interface
-- Dark mode support
 - Task management using JavaScript
 - Stores tasks dynamically during usage
 
