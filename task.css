@@ -1,0 +1,102 @@
+body{
+font-family:Arial;
+text-align:center;
+margin-top:50px;
+background:#c0c0c0;
+margin-bottom: 80px;
+}
+.container{
+    width: 70%;
+    background-color: white;
+    padding:30px;
+    margin:auto;
+    border-radius:8px;
+    height: 1000px;
+    
+
+}
+
+
+h2{
+    color: rgb(36, 24, 24);
+    font-size: 45px;
+     text-shadow: 2px 2px 2px rgb(5, 132, 125);
+}
+input,select{
+padding:8px;
+margin:5px;
+border: 2px solid ;
+border-radius: 10px;
+border-color: rgb(5, 132, 125);
+}
+
+#btn{
+padding:8px 12px;
+background:rgb(5, 132, 125);
+color:white;
+border:none;
+cursor:pointer;
+border-radius: 10px;
+font-size: 15px;
+margin: 10px
+}
+#btn:hover{
+    background-color:rgb(5, 57, 55);
+    border-radius:20px;
+    
+}
+
+.status-btn{
+    background:rgb(5, 132, 125);
+    color:white;
+    padding: 4px 6px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.status-btn:hover{
+    background-color:rgb(5, 57, 55);
+    border-radius: 13px;
+}
+
+.edit-btn{
+    background:rgb(5, 132, 125);
+    color:white;
+    padding: 4px 6px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.edit-btn:hover{
+      border-radius: 13px;
+      background-color:rgb(5, 57, 55);
+
+}
+
+
+.delete-btn{
+    background-color: rgb(213, 62, 62);
+    padding: 4px 6px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 5px;
+    color: white;
+}
+.delete-btn:hover{
+    background-color: rgb(187, 8, 8);
+    border-radius: 13px;
+}
+
+li{
+margin:23px;
+margin-left: 0px;
+margin-right: 50px;
+}
+
+h3{
+    font-size: 30px;
+    color: rgb(14, 39, 37);
+    text-shadow: 2px 2px 2px rgb(5, 132, 125);
+    text-decoration: underline rgb(197, 195, 195);
+
+}

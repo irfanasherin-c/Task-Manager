@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task Manager</title>
+<link rel="stylesheet" href="task.css">
+</head>
+
+<body>
+<div class="container">
+    <h2>Task Manager System</h2>
+    <input type="text" id="task" placeholder="Enter Your Task">
+    <input type="text" id="desc"placeholder="Enter the Description"></input>
+    <select id="status">
+        <option>Pending</option>
+        <option>Completed</option>
+        <option>In Progress</option>
+    </select>
+    <select id="priority">
+        <option>High priority</option>
+        <option>Medium Priority</option>
+        <option>Low Priority</option>
+    </select>
+        <label>Due Date:</label>
+        <input type="date" id="due">
+        <button id="btn"onclick="addTask()">Add</button>
+        <br><br>
+        <h3>Tasks and Status:</h3>
+        <ol id="list"></ol>
+        
+
+        <script src="task.js"></script>
+
+</div>
+</body>
+</html>
