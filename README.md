@@ -7,7 +7,6 @@ A simple Task Manager web application developed using HTML, CSS, and JavaScript.
 - Mark tasks as completed
 - Delete tasks
 - Responsive user interface
-- Dark mode support
 - Task management using JavaScript
 - Stores tasks dynamically during usage
 
@@ -27,5 +26,24 @@ task.js     -> JavaScript functionality
 1. Download or clone the repository
 2. Open `task.html` in your browser
 
+## Screenshots:
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Task Added Successfully
+![Task Added](screenshots/task added.png)
+
+### Validation Message
+![Validation](screenshots/validation.png)
+
+### Additional Validation
+![Validation](screenshots/validation1.png)
+
 ## Author
 Irfana Sherin
+
+
+
+
+
